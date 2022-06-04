@@ -1,0 +1,11 @@
+# deps
+node_modules
+
+# pnpm log
+.pnpm-debug.log
+
+# build file
+dist
+
+# parcel-cache
+.parcel-cache
